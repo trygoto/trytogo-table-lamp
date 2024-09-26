@@ -33,7 +33,6 @@
   <img src="https://github.com/user-attachments/assets/3b096c7b-c9ab-415a-9d3b-ec5a78283308" width="20%">
 
 
-
 - Unable to add trytogo table lamp through hue bridge
 
 Restart the hue bridge and add it through the SN on the device
@@ -41,6 +40,13 @@ Restart the hue bridge and add it through the SN on the device
   <img src="https://github.com/user-attachments/assets/0da6ace6-8d4e-470a-9d39-3ec717ebef37" width="20%">
   <img src="https://github.com/user-attachments/assets/a71440ae-17dc-445d-8698-bb9aeaab0102" width="20%">
 
+
+- Other lights in the Entertainment area cannot synchronize the lighting effects.
+
+  Turn off automatic selection
+
+  <img src="https://github.com/user-attachments/assets/8b294d0f-53c4-429d-8f61-c014629c3b2b" width="20%">
+  
 
 
 
