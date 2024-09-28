@@ -61,7 +61,6 @@ Restart the hue bridge and add it through the SN on the device
   
   As Philips said: ours is ours , yours is yours
   
-  <img src="https://github.com/user-attachments/assets/33cc09fb-5043-41ec-a134-af25d5765d5b" width="50%">
     
 - Do I need a Hue Bridge to control the trytogo table lamp?
 
