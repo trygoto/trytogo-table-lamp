@@ -12,6 +12,7 @@
 - Compatible with all Hue scene gallery.Dynamic color.
 - Support BLE OTA and Zigbee OTA.
 - Support Xiaomi Mijia App (mainland China only).
+- Support SmartThings.
 
 # 📲 Quick start guide and documentation
 
