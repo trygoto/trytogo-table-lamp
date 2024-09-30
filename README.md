@@ -10,7 +10,7 @@
 - Unparalleled color accuracy.
 - Bluetooth and Hue Bridge compatible
 - Compatible with all Hue scene gallery.Dynamic color.
-- Support Firmware OTA.
+- Support BLE OTA and Zigbee OTA.
 - Support Xiaomi Mijia App (mainland China only).
 
 # 📲 Quick start guide and documentation
